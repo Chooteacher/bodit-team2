@@ -97,7 +97,7 @@ npm start
 ### 4-2. 구현 기능
 
 - ✅ 첫번째 페이지 _(/ )_
-
+<img url ="(https://user-images.githubusercontent.com/105857105/196739650-b3638413-75e9-4bf5-ad37-53400b14ef9d.png" />
 
   <br />
 
