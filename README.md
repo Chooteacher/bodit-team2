@@ -97,11 +97,11 @@ npm start
 ### 4-2. 구현 기능
 
 - ✅ 첫번째 페이지 _(/ )_
-(https://user-images.githubusercontent.com/105857105/196739650-b3638413-75e9-4bf5-ad37-53400b14ef9d.png")
+![table](https://user-images.githubusercontent.com/105857105/196739650-b3638413-75e9-4bf5-ad37-53400b14ef9d.png)
   <br />
 
 - ✅ 두번째 페이지 _(/graph)_
- (https://user-images.githubusercontent.com/105857105/196739659-fc412624-d496-4d2a-8528-b4a8ae7a81e3.png)
+![graph](https://user-images.githubusercontent.com/105857105/196739659-fc412624-d496-4d2a-8528-b4a8ae7a81e3.png)
 
   <br />
 
